@@ -10,4 +10,4 @@ Passionate Web Developer focused in all things Javascript
 - 👨🏼‍💻  Always improving my coding skills
 - ☕️  And of course, a coffee connoisseur
 
-- 🌲  Please feel free to check out my projects below!
+-  Please feel free to check out my projects below!
