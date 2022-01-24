@@ -3,7 +3,7 @@
 
 # Hi, I'm James 👋🏻
 
-Passionate Web Developer focused in all things Javascript
+Passionate Web Developer focused in React.js, JavaScript, and MERN Stack
 
 - 🤓  Committed to lifelong learning
 - 📬  Love to connect and collaborate
