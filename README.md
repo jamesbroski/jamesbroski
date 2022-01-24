@@ -7,7 +7,7 @@ Passionate Web Developer focused in React.js, JavaScript, and MERN Stack
 
 - 🤓  Committed to lifelong learning
 - 📬  Love to connect and collaborate
-- 👨🏼‍💻  Always improving my coding skills
+- 👨🏼‍💻  Always improving problem solving skills
 - ☕️  And of course, a coffee connoisseur
 
 -  Please feel free to check out my projects below!
